@@ -1,0 +1,7 @@
+C:\Users\korni\source\repos\StationsAlgorithm\StationsAlgorithm\bin\Debug\StationsAlgorithm.exe.config
+C:\Users\korni\source\repos\StationsAlgorithm\StationsAlgorithm\bin\Debug\StationsAlgorithm.exe
+C:\Users\korni\source\repos\StationsAlgorithm\StationsAlgorithm\bin\Debug\StationsAlgorithm.pdb
+C:\Users\korni\source\repos\StationsAlgorithm\StationsAlgorithm\obj\Debug\StationsAlgorithm.csprojAssemblyReference.cache
+C:\Users\korni\source\repos\StationsAlgorithm\StationsAlgorithm\obj\Debug\StationsAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\korni\source\repos\StationsAlgorithm\StationsAlgorithm\obj\Debug\StationsAlgorithm.exe
+C:\Users\korni\source\repos\StationsAlgorithm\StationsAlgorithm\obj\Debug\StationsAlgorithm.pdb
